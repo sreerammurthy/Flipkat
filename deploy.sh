@@ -23,3 +23,6 @@ we are writing this code to check the test case. while you are the writing the s
 
 Usually in this case with out commiting the updated code it will not allow the swich to another branch but there is a one option called stash. if we entered stash command it will create backup on local repo..
 after you fix the issue in prod env and back to your work..
+
+
+updating the code based on the requirment.
